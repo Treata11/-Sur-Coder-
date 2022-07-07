@@ -1,5 +1,0 @@
-greedy
-dynamic
-graph
-constructive
-brute force
