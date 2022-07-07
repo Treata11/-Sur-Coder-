@@ -1,6 +1,6 @@
-MORTEZA:         SOURCE          START-TIME         END-TIME           RATE
-............................................................................
-Udemy_Machine_Learning_Data_Science_and_Deep_Learning_with_Python_2021
+MORTEZA:         SOURCE                    DATE             START-TIME                  END-TIME                   RATE
+.........................................................................................................................
+            Udemy_Machine_Learning
 
 
 
@@ -10,8 +10,8 @@ Udemy_Machine_Learning_Data_Science_and_Deep_Learning_with_Python_2021
 
 
 
-MAHDI:           SOURCE          START-TIME         END-TIME           RATE     
-.............................................................................
+MAHDI:           SOURCE                    DATE             START-TIME                 END-TIME                    RATE     
+..........................................................................................................................
 
 
 
@@ -21,9 +21,9 @@ MAHDI:           SOURCE          START-TIME         END-TIME           RATE
 
 
 
-PARSA:           SOURCE          START-TIME         END-TIME           RATE     
-.............................................................................
-
+PARSA:           SOURCE                    DATE             START-TIME                  END-TIME                    RATE     
+............................................................................................................................
+                PYTHON-SQL-BOOK         2022/07/07          12:00                         ---                      ---
 
 
 
