@@ -17,10 +17,9 @@ MAHDI:           SOURCE                    DATE             START-TIME          
 
 https://www.virtualizationhowto.com/2021/12/install-pi-hole-in-ubuntu-21-04/
 
+Copy the package provided default configuration for Pi-hole:
+# cp /usr/share/pihole/configs/lighttpd.example.conf /etc/lighttpd/lighttpd.conf
 
-vmess://ewogICAgImFkZCI6ICI1Ljc1LjE3Ny42NSIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAid3d3LmRpZ2lrYWxhLmNvbSIsCiAgICAiaWQiOiAiOTgyYzEzMDYtNjgyZC00NmNlLWYzNjItZTdlNGVmMGRmNDczIiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAiMTA5MDciLAogICAgInBzIjogInRlc3QiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAid3d3LmRpZ2lrYWxhLmNvbSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJodHRwIiwKICAgICJ2IjogIjIiCn0K
-
-vmess://ewogICAgImFkZCI6ICI1Ljc1LjE3Ny42NSIsCiAgICAiYWlkIjogIjAiLAogICAgImhvc3QiOiAid3d3LmRpZ2lrYWxhLmNvbSIsCiAgICAiaWQiOiAiOTgyYzEzMDYtNjgyZC00NmNlLWYzNjItZTdlNGVmMGRmNDczIiwKICAgICJuZXQiOiAidGNwIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAiMTA5MDciLAogICAgInBzIjogInRlc3QiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJzbmkiOiAid3d3LmRpZ2lrYWxhLmNvbSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJodHRwIiwKICAgICJ2IjogIjIiCn0K
 
 [BACKEND-DEV]
 PARSA:           SOURCE                    DATE             START-TIME                  END-TIME                    RATE     
